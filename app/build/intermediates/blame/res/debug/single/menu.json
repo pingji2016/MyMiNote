@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sub_folder.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\menu\\sub_folder.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sub_folder.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\menu\\sub_folder.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_edit.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\menu\\note_edit.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list_dropdown.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\menu\\note_list_dropdown.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list_options.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\menu\\note_list_options.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\menu\\note_list.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call_note_edit.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\menu\\call_note_edit.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\menu\\note_list.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\menu\\note_list.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call_record_folder.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\menu\\call_record_folder.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call_note_edit.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\menu\\call_note_edit.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call_record_folder.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\menu\\call_record_folder.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call_note_edit.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\menu\\call_note_edit.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sub_folder.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\menu\\sub_folder.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list_options.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\menu\\note_list_options.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_edit.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\menu\\note_edit.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_edit.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\menu\\note_edit.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call_record_folder.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\menu\\call_record_folder.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list_options.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\menu\\note_list_options.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list_dropdown.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\menu\\note_list_dropdown.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list_dropdown.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\menu\\note_list_dropdown.xml"
+    }
+]

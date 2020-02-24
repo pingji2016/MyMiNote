@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_4x_info.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\xml\\widget_4x_info.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_2x_info.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\xml\\widget_2x_info.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_2x_info.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\xml\\widget_2x_info.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_4x_info.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\xml\\widget_4x_info.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_2x_info.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\xml\\widget_2x_info.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_4x_info.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\xml\\widget_4x_info.xml"
+    }
+]

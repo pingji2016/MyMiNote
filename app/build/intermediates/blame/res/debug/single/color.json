@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\color\\secondary_text_dark.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\color\\secondary_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Androidwk\\Notes-master1\\app\\build\\intermediates\\res\\merged\\debug\\color\\primary_text_dark.xml",
+        "source": "F:\\Androidwk\\Notes-master1\\app\\src\\main\\res\\color\\primary_text_dark.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\color\\secondary_text_dark.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\color\\secondary_text_dark.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\color\\primary_text_dark.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\MyMiNote\\app\\src\\main\\res\\color\\primary_text_dark.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\color\\primary_text_dark.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\color\\primary_text_dark.xml"
+    },
+    {
+        "merged": "F:\\gitupresorce\\MyMiNote\\app\\build\\intermediates\\res\\merged\\debug\\color\\secondary_text_dark.xml",
+        "source": "F:\\gitupresorce\\MyMiNote\\app\\src\\main\\res\\color\\secondary_text_dark.xml"
+    }
+]
